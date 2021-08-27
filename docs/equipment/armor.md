@@ -1,5 +1,6 @@
 
 ### VAC Industries B01 Essentials (Bikini)
+
 | _Armor (space suit), common_ | 
 |:-------------|
 | _This full-body space suit offers basic protections against the vacuum for the price-concious customer, and provides a short term life support supply, as well as a required emergency beacon._ | 
