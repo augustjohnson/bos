@@ -1,3 +1,0 @@
-# Delfond Flotterclan
-
-# Wrothgar Flotterclan

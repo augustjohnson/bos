@@ -1,44 +1,20 @@
 ---
-tags: sitemap
+layout: page
+title: The Universe of BS
 ---
-## The World
-Please visit [The World](places/the-world) for a world map.
-If you're interested in world history, please visit the [history](history/world-history) page.
 
-## [Places](places/the-world)
-There are many places in the world, (and growing all the time).
+Welcome to the basic explainer of the Universe of the Bureau of Space.
 
-{% include category-list.html category="place" %}
+It's about 150 years in the future, and a lot of things have happened.  The ones that need to be noted are as follows.
+1. Humans have colonized most of the reasonably survivable solar system.
+2. Interplanetary ships mostly use engines that can support 1G constant acceleration/decelleration.
+3. An organization called the Space Force has oversight into many of official activities traveling between these systems.
+4. There's no aliens or intelligent life of any sort that's non-terrestrial in origin.
+5. There's no magic.
+6. Physics as we know it have not been violated (running under the assumption that a fusion based ~1G acceleration engine is possible)
 
-### The Western Continent
-The western continent is fairly well contained and has four mountain ranges and five major rivers.  It is well settled and has few truly wild areas.
+If you're interested in learning more, check out the subsections of this site!
 
-### The Eastern Continents
-The Northern island has a central mountain range (the Frebrand range) and many islands (mostly parts of the Orcish Isles).  It stretches from the Northcrown, a cold wasteland to the Strait of Agnuan seperating it from the Southern Island.
+* [Slack](https://dndkc.slack.com)
 
-The southern island has a small central mountain range as well, and is home to both the corruption and the High Elves.
-
-
-## People
-The inhabitants of this world are what make it interesting.  Notable inhabitants can be found in the /people folder.  Here are a few examples.
-* [Fookwire](people/fookwire), the NPC Magic Item Salesman.
-* [The Flotterclan Family](people/the_flotterclan_family.md), a family of Dwarven Nobles.
-* [Ra'jur](people/rajur), a fiend, vanquished by the High Flyers during the Sixdays War.
-
-{% include category-list.html category="people" %}
-
-### Factions
-See the [Factions](factions) page for more information.
-
-### Player Characters
-{% include category-list.html category="pc" %}
-
-### Recurring NPCs
-{% include category-list.html category="npc" %}
-
-### Crafting
-See the [Crafting](crafting) page for more information
-
-### Campaigns
-Current and Past Campaigns or One Shot Adventures
-{% include category-list.html category="campaign" %}
+[![](/images/orbital.jpg)](/images/orbital.jpg)
