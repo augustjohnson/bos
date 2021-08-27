@@ -26,9 +26,17 @@ You can speak, read, and write Common and Martian.
 ### High Society (High Elf)
 
 ### Weapon Training
-(todo)
+You have proficiency with rapiers and beam rifles.
 
 ### Cantrip
-(todo)
+You are able to perform one of the following cantrips, but you must re-skin it for usage in a no-magic technology-based society.
 
-### 
+* Encode Thoughts
+* Friends
+* Gust
+* Mage Hand
+* Mind Sliver
+* Minor Illusion (the images you make need to be mostly predetermined)
+* Poison Spray
+* Shocking Grasp
+* True Strike

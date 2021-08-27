@@ -6,6 +6,6 @@ The archetypal PMS Expert excels at low-G combat. Usually born among the wealthy
 
 Starting at 3rd leve, you have a fly speed of 30ft.  To use this speed, you must be in an environment with less than 1 Gravity (it does not work on the surface of Earth).
 
-Your mastery as a maneuverer becomes apparent. If you start spinning out of control, you have advantage on saving throws to recover.
+Your mastery as a maneuverer becomes apparent. If you start Spiraling, you have advantage on saving throws to recover.
 
 __All other class features remain the same.__
