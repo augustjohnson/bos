@@ -8,3 +8,5 @@ defaults:
       path: ""
     values:
       layout: "base"
+
+theme: jekyll-theme-modernist
