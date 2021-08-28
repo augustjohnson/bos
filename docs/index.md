@@ -5,20 +5,19 @@ title: The Universe of BS
 
 Welcome to the basic explainer of the Universe of the Bureau of Space.
 
-It's about 150 years in the future, and a lot of things have happened.  The ones that need to be noted are as follows.
+It's about 150 years in the future from the present day.  This story takes place inside of our solar system.
 1. Humans have colonized most of the reasonably survivable solar system.
-2. Interplanetary ships mostly use engines that can support 1G constant acceleration/decelleration.
+2. Interplanetary travel is common, and enjoyed by a large group.  Think of it like intercontinental flying is in the present day.
 3. An organization called the Bureau of Space has oversight into many of official activities traveling between these systems.
-4. There's no aliens or intelligent life of any sort that's non-terrestrial in origin.
-5. There's no magic.
-6. Physics as we know it have not been violated (running under the assumption that a fusion based ~1G acceleration engine is possible)
+4. There are no aliens or intelligent life of any sort that's non-terrestrial in origin.
+5. There is no magic.
+6. There is no faster-than-light travel.
 
-If you're interested in learning more, check out the subsections of this site!  I suggest you start at the top.
+Here are some detailed subsections for more in-depth limitations and rule adjustments from a standard DND 5e fantasy campaign.
 
 * [Basic Rules Changes](./basics)
 * [Races](./races)
 * [Classes](./classes)
-
 * [Slack](https://dndkc.slack.com)
 
 [![](/images/orbital.jpg)](/images/orbital.jpg)

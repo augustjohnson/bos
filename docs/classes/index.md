@@ -26,5 +26,5 @@ If any abilities of the new class has a magical component to it, it must be re-s
 
 The following reskinned class is also available:
 
-* [Fighter: Personal Maneuvering System Expert](/classes/FighterPMS)
+* [Fighter: Personal Maneuvering System Expert](./FighterPMS)
 
