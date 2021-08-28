@@ -15,7 +15,8 @@ It's about 150 years in the future, and a lot of things have happened.  The ones
 
 If you're interested in learning more, check out the subsections of this site!  I suggest you start at the top.
 
-[Basic Rules Changes](basics)
+[Basic Rules Changes](/basics)
+[races](/races)
 
 * [Slack](https://dndkc.slack.com)
 
