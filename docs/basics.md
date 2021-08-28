@@ -9,7 +9,7 @@ Skills are mostly the same as in a fantasy campaign in DND 5e with a few additio
 
 **Intelligence** - Arcana - ~~History~~ - Investigation - Nature - ~~Religion~~ - Physics - Technology
 
-Due to very little utility of an education in religion or nature, those two skills have been deprecated with the following direct replacements.  Any effects that applied to the former can now apply to the latter.
+Due to very little utility of an education in religion or nature, those two skills have been deprecated with the following direct replacements.  Any effects that applied to the **former** can now apply to the **latter**.
 * **Nature** has been replaced by **Physics**, the ability for you to recall information about the dynamics of systems in our physical universe.
 * **Religion** has been replaced by **Technology**, the ability to recall technical information related to equipment, ships, or computer systems.
 
@@ -17,51 +17,7 @@ Due to very little utility of an education in religion or nature, those two skil
 
 **Charisma** - Deception - Intimidation - Performance - Persuasion
 
-### Classic Weapons
-All of the original DND weapons exist, and a few are still in practice.  The following weapons are common enough to be available with minimal effort by the purchaser.
 
-*Simple Melee Weapons*
-* Dagger
-* Club
-* Greatclub
-* Boarding Axe (Handaxe, with a pick on the back for piercing damage)
-
-*Simple Ranged Weapons*
-* Crossbow, light
-
-*Martial Melee Weapons*
-* Utility Axe (Battleaxe, with a pick on the back for piercing damage)
-* Rapier
-* Maul
-* Shortsword
-
-*Martial Ranged Weapons*
-* Compound Bow (Longbow)
-* Net
-* Crossbow, hand
-* Crossbow, heavy
-
-### Modern Weapons
-The following weapons are also available, and offer a modern approach to combat.
-
-*Simple Melee Weapons*
-* Stun Baton
-
-*Simple Ranged Weapons*
-* Beam Pistol
-* Projectile Pistol
-* Grapple Launcher
-
-*Martial Melee Weapons*
-* Catch Pole
-* Garrote Wire
-* Cutting Torch
- 
-*Martial Ranged Weapons*
-* Beam Rifle
-* Projectile Rifle
-* Cannister Launcher
-* Foam Shooter
 
 ### Planes
 In most cases, you can simply replace the word "plane of existence" with "planet".

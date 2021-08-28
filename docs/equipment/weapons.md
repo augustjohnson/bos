@@ -1,19 +1,46 @@
-### RD28 Photon Beam Rifle (Flashlight)
+### Classic Weapons
+All of the original DND weapons exist, and a few are still in practice.  The following weapons are common enough to be available with minimal effort by the purchaser.
 
-| _Weapon (rifle), common (requires registration)_| 
-|:-------------|
-| _This long rifle can shoot a focused laser, making a small hole in most things in a straight line._ | 
-| **Damage:** 1d10 radiant |
-| **Properties:** Ammunition (range 100/300), reload (30 shots), two-handed |
-| **Standard Price:** 250 Kilobucks |
+*Simple Melee Weapons*
+* Dagger
+* Club
+* Greatclub
+* Boarding Axe (equivalent to a Handaxe, with a pick on the back for piercing damage)
 
+*Simple Ranged Weapons*
+* Crossbow, light
 
-* * *
-### MZ000G Less-Lethal Electroshock Baton (Cattle Prod)
+*Martial Melee Weapons*
+* Utility Axe (equivalent to a Battleaxe, with a pick on the back for piercing damage)
+* Rapier
+* Maul
+* Shortsword
 
-| _Weapon (baton), common_ | 
-|:-------------|
-| _Touching a target within melee range and triggering the baton causes electricity to arc across the prongs.  This results in significant discomfort for the target._ | 
-| **Damage:** 1d6 lightning |
-| **Properties:** Melee, reload (10 attacks), light |
-| **Standard Price:** 100 Kilobucks |
+*Martial Ranged Weapons*
+* Compound Bow (equivalent to a Longbow)
+* Net
+* Crossbow, hand
+* Crossbow, heavy
+
+### Modern Weapons
+The following weapons are also available, and offer a modern approach to combat.
+
+*Simple Melee Weapons*
+* Stun Baton
+
+*Simple Ranged Weapons*
+* Beam Pistol
+* Projectile Pistol
+* Grapple Launcher
+
+*Martial Melee Weapons*
+* Catch Pole
+* Garrote Wire
+* Cutting Torch
+ 
+*Martial Ranged Weapons*
+* Beam Rifle
+* Projectile Rifle
+* Cannister Launcher
+* Foam Shooter
+
