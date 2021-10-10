@@ -13,11 +13,19 @@ It's about 150 years in the future from the present day.  This story takes place
 5. There is no magic.
 6. There is no faster-than-light travel.
 
+For more details on the universe, check out these pages:
+* [History](./history)
+* [People](./people)
+* [Places](./places)
+* [Technologies](./technologies)
+
 Here are some detailed subsections for more in-depth limitations and rule adjustments from a standard DND 5e fantasy campaign.
 
 * [Basic Rules Changes](./basics)
 * [Races](./races)
 * [Classes](./classes)
+* [Equipment](./equipment)
+* [Backgrounds](./backgrounds)
+* [Feats](./feats)
 * [Slack](https://dndkc.slack.com)
 
-[![](/images/orbital.jpg)](/images/orbital.jpg)

@@ -18,13 +18,17 @@ The following standard DND 5e classes are allowed in this campaign:
 * Rogue: Swashbuckler
 * Rogue: Thief
 
-In addition, custom classes may be made, but need to be a re-skinning of an existing class with a in-universe set of abilities well-thought out and explained for at least the first 10 levels.
+In addition, custom classes may be made, but need to be a re-skinning of an existing class with a in-universe set of abilities well-thought out and explained for at least the first 10 levels. 
 
-For Example, Rogue: Arcane Trickster with a go-go-gadget hand instead of mage hand legerdemain, and each spell you plan to take up to Level 10 needs to be re-skinned.
+Example 1, Rogue: Arcane Trickster with a go-go-gadget hand instead of mage hand legerdemain, and each magical spell you plan to take up to Level 10 needs to be re-skinned for a no-magic, technology-focused world, including explanations based in science on how it would work.
 
-If any abilities of the new class has a magical component to it, it must be re-skinned. A custom page (in this same directory) must be made for the new class.
+Example 2, Cleric: Forge domain could be a skilled engineer with a set of tricks based on custom technology that theiy have created.
 
-The following reskinned class is also available:
+Example 3, Cleric Light domain could just be lasers.
+
+If any abilities of the new class has a magical component to it (such as a Channel Divinity), it must be re-skinned. A custom page (in this same directory) must be made for the new class.
+
+The following reskinned classes are also available:
 
 * [Fighter: Personal Maneuvering System Expert](./FighterPMS)
-
+* [Barbarian: Contingency Planner](./BarbarianCP)

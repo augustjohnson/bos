@@ -14,7 +14,7 @@ You were given treatment to upgrade your eyes, and can see dim light within 60 f
 ### Size
 Voidborn can vary greatly in size from 3ft fully grown (due to careful genetic deamplification in utero) to 8ft tall (due to the lack of gravity on a normal human growth cycle).  None are muscular or bulky due to the lack of gravity in their normal environment.  Very few would weigh more than 100lbs in earth gravity.  You can choose to be Small or Medium size.
 
-### Cool Headed in a Crisis (Gnome Cunning)
+### Not My First Crisis (Gnome Cunning)
 You have advantage on all Intelligence and Wisdom saving throws.
 
 ### Languages

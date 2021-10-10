@@ -28,7 +28,7 @@ In addition to all conditions in DND 5e, there is one more, that only applies in
 #### Spiraling
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 * The creature has disadvantage on Dexterity saving throws.
-* The creature moves 10 feet in a random direction (the bearing continues after their first turn), but otherwise cannot move.
+* The creature moves 15 feet away from whatever caused the condition (the bearing continues after their first turn), but otherwise cannot move.
 * The creature can use an action to try and **stabilize**.
 * A creature taking the **stabilize** action has to succeed a DC12 Dexterity saving throw to no longer be spiraling.
 
