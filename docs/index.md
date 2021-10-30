@@ -9,13 +9,15 @@ Welcome to the late 22nd century.  Humans have advanced their position throughou
 2. Interplanetary travel is common, and enjoyed by a large group.  Think of it like intercontinental flying is in the present day.
 3. An organization called the **Bureau of Space** has oversight into activities traveling between these systems.
 4. There are no aliens or intelligent life of any sort that's non-terrestrial in origin.
-5. There is no magic.
-6. There is no faster-than-light travel.  Humans are generally limited to our solar system.
+5. There are artificial entities generally called [Minds](./minds).  There has been no killer AI apocalypse, and humans do not serve at the altar of AGI.
+6. There is no magic.
+7. There is no faster-than-light travel.  Humans are generally limited to our solar system, and relativity has limited any sort of human influence to only barely touch the nearest stars.
 
 For more details on the universe, check out these pages:
 * [History](./history)
 * [People](./people)
 * [Places](./places)
+* [Minds](./minds)
 * [Technologies](./technologies)
 
 Here are some detailed subsections for more in-depth limitations and rule adjustments from a standard DND 5e fantasy campaign.
