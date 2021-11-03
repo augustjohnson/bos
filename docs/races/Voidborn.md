@@ -21,6 +21,7 @@ You have advantage on all Intelligence and Wisdom saving throws.
 
 ### Languages
 You can speak, read, and write Common and Void Signals.
+Void Signals is a visual language, that can communicate most concepts through hand signals.
 
 ## Subraces
 

@@ -31,4 +31,4 @@ If any abilities of the new class has a magical component to it (such as a Chann
 The following reskinned classes are also available:
 
 * [Fighter: Personal Maneuvering System Expert](./FighterPMS)
-* [Barbarian: Contingency Planner](./BarbarianCP)
+* [Barbarian: Path of the Cyborg](./BarbarianCyborg)

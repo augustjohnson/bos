@@ -1,4 +1,8 @@
 # Travel Times
+Below is a table to look up the travel times from one location in the solar system to another, using a standard Krylon Fusion-drive powered vehicle.
+
+All times are measured in standard earth days.
+
 
 |     	|   Mercury  	|   Venus  	|   Earth  	|   Eros  	|   Mars  	|   Ceres  	|   Jupiter  	|   Saturn  	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|
