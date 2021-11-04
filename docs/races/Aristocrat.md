@@ -1,6 +1,6 @@
 Aristocrats have access to treatments and technologies from birth that are unobtainable by the general public.  This allow for significant deviations from normal human development.
 ## Aristocrat Traits
-Your aristocrat character has 
+Your aristocrat character has the inifinite money cheat code.
 
 ### Age
 Although aristocrats reach physical maturity at about the same age as standard humans, they have so far shown few signs of aging at the current maximum age of 200 years old, due to genetic and advanced medical treatments.  While this requires occasional expensive medical work, an aristocrat has many traits that were given to them early in life.

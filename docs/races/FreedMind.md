@@ -3,7 +3,7 @@ Created as a tool for some other purpose, you have been granted rights as a cons
 
 ## Freed Mind Traits
 **Ability Scores**
-Your intelligence score is 20.
+Your intelligence score is 24.
 
 **Size**
 Your size is Large.
@@ -11,5 +11,7 @@ Your size is Large.
 **Stationary**
 Your physical body is immobile and your speed is 0. You have no inherent Strength, or Dexterity abilities. Your Constitution may apply depending on the specific situation (the shockwave from an explosion, for example).
 
-**Feature: Remote Control**
+### Remote Capabilities
 You may control drones remotely when the correct infrastructure is in place, but splitting your attention results in degraded performance. You may control a number of drones equal to your proficiency bonus.
+
+You may use remote sensors (when available).  These may include cameras, proximity sensors, ship and suit identifiers, etc.

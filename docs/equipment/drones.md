@@ -54,7 +54,7 @@
 | **Railgun.** Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 6 (1d4+4) piercing damage.|
 | **Invisibility.** The drone turns invisible until it attacks or until its concentration ends. Any equipment the drone carries is invisible with it. |
 
-### GNU Opensoarer
+### GNU OpenSOAR
 | _Drone, common_ | 
 |:-------------|
 | _This 2.5kg self-printed and assembled drone can be set up for copter or AG modes, and provides audio, video, and spatial sensors.  It has a diagnostic screen and a small speaker system._ | 

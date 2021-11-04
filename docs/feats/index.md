@@ -43,17 +43,17 @@ The following standard DND 5e feats are allowed in this campaign:
 
 In addition, custom feats may be made, but need to be a re-skinning of an existing feat with a in-universe set of abilities well-thought out and explained. See the below examples as basic inspiration for reskinned feats.
 
-Example 1, Artificer Initiate, with re-skinned cantrip and 1st level spell.
+**Magic Initiate**, with re-skinned cantrip and 1st level spell.
 
 ### Zap Kit (Magic Initiate - Wizard)
-Electrified Gloves (Shocking Grasp)
-Arc Lightning - (Witch Bolt)
+* Electrified Gloves (Shocking Grasp)
+* Arc Lightning - (Witch Bolt)
 
-Example 2, Eldritch Adept with a set of re-skinned invocations.
+**Eldritch Adept** with a set of re-skinned invocations.
 
 ### Technomask (Eldritch Adept)
-Mask of Many Faces
-Enhanced Optics - (Devil's Sight)
-(You can switch to Misty Visions as some sort of projection.)
+ * Mask of Many Faces
+ * Enhanced Optics - (Devil's Sight)
+(You can switch to Misty Visions as some sort of holographic projection.)
 
 Example 3, Svirfneblin Magic, with a few adjustments to the spells being cast.
