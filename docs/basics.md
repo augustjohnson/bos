@@ -17,11 +17,6 @@ Due to very little utility of an education in religion or nature, those two skil
 
 **Charisma** - Deception - Intimidation - Performance - Persuasion
 
-### Planes
-In most cases, you can simply replace the word "plane of existence" with "planet".
-
-For example, if you wanted to re-skin the spell Mind Spike, you would always know the location of the target for 1 hour as long as they remained on the same planet.
-
 ### Conditions
 In addition to all conditions in DND 5e, there are two more that only apply in 0 gravity environments.  They are ***Free-Floating*** and ***Spiraling***.  For example an attacker succeeding in a shove would be unable to force a target prone in 0G, but they would be able to start a target spiraling.
 
@@ -35,9 +30,8 @@ In addition to all conditions in DND 5e, there are two more that only apply in 0
 * The creature can use an action to try and **stabilize**.
 * A creature taking the **stabilize** action has to succeed a DC12 Dexterity saving throw, and then they are free-floating instead of spiraling.
 
-### The Worlds
-See each of the world's pages for details, but the following things are commonplace:
-* Many humans have brain implants to get information to and from their brain.  A cell-phone for their brain.
-* A few humans have cybernetic body parts, or body modifications.
-* Humans that are born in environments that are less than 1g are nearly always recognizable on sight because of their lanky dimensions and underdevelopment muscles compared to earthborn.
-* Various environments with lower artificial gravity have been created.
+
+### Planes
+If you are adapting a spell or ability, in most cases, you can simply replace "plane of existence" with "planet".
+
+For example, if you wanted to re-skin the spell Mind Spike, you would always know the location of the target for 1 hour as long as they remained on the same planet.
