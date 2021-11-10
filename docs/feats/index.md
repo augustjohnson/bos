@@ -1,3 +1,4 @@
+# Feats
 
 The following standard DND 5e feats are allowed in this campaign:
 
@@ -40,6 +41,8 @@ The following standard DND 5e feats are allowed in this campaign:
 * Tavern Brawler
 * Tough
 * Weapon Master
+
+## Custom Feats
 
 In addition, custom feats may be made, but need to be a re-skinning of an existing feat with a in-universe set of abilities well-thought out and explained. See the below examples as basic inspiration for reskinned feats.
 
