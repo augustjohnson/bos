@@ -28,7 +28,7 @@ The following weapons are also available, and offer a modern approach to combat.
 * [Taser TZ4 Stun Baton](./TZ4.md)
 
 *Simple Ranged Weapons*
-* [Beam Pistol]()
+* [Precision Engineering Wx2 Beam Pistol](./PEWx2.md)
 * [Projectile Pistol]()
 * [Grapple Launcher]()
 
@@ -38,7 +38,7 @@ The following weapons are also available, and offer a modern approach to combat.
 * [Cutting Torch]()
  
 *Martial Ranged Weapons*
-* [Beam Rifle]()
+* [Precision Engineering Wx3 Beam Rifle](./PEWx3.md)
 * [Projectile Rifle]()
 * [Cannister Launcher]()
 * [Foam Shooter]()

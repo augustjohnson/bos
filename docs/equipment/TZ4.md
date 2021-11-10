@@ -1,5 +1,4 @@
 ### Taser TZ4 Stun Baton
-The Taser TZ4 Stun Baton is a 
 
 | _Simple Melee Weapon, 2lbs_ | 
 |:-------------|
