@@ -25,21 +25,21 @@ All of the original DND weapons approximately exist, and a few are still in prac
 The following weapons are also available, and offer a modern approach to combat.
 
 *Simple Melee Weapons*
-* Stun Baton
+* [Taser TZ4 Stun Baton](./TZ4.md)
 
 *Simple Ranged Weapons*
-* Beam Pistol
-* Projectile Pistol
-* Grapple Launcher
+* [Beam Pistol]()
+* [Projectile Pistol]()
+* [Grapple Launcher]()
 
 *Martial Melee Weapons*
-* Catch Pole
-* Garrote Wire
-* Cutting Torch
+* [Catch Pole]()
+* [Garrote Wire]()
+* [Cutting Torch]()
  
 *Martial Ranged Weapons*
-* Beam Rifle
-* Projectile Rifle
-* Cannister Launcher
-* Foam Shooter
+* [Beam Rifle]()
+* [Projectile Rifle]()
+* [Cannister Launcher]()
+* [Foam Shooter]()
 
