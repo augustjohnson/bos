@@ -1,79 +1,8 @@
-### VAC Industries PP22 Observation Drone (*Mosquito*)
+# Drones
 
-| _Drone, common_ | 
-|:-------------|
-| _This 2.5kg hard shelled drone can be configured in either copter or AG modes, and provides audio, video, and spatial sensors.  It has a diagnostic screen and a small speaker system._ | 
-| **Armor Class** 13 |
-| **Hit Points** 7 (1d4 +5) |
-| **Speed** 0 ft., fly 30 ft.|
-| **Standard Price:** 1 Megabuck |
-<table class="abilities">
-  <thead><tr><th>STR</th><th>DEX</th><th>CON</th><th>WIS</th><th>INT</th> <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2 (-4)</td>
-      <td>16 (+3)</td>
-      <td>20 (+5)</td>
-      <td>1 (-5)</td>
-      <td>1 (-5)</td>
-      <td>1 (-5)</td>
-    </tr>
-  </tbody>
-</table>
+## VAC Industries
+* [VAC Industries PP22 Observation Drone (*Mosquito*)](./PP22.md)
+* [VAC Industries XC20 Stealth Drone (*Owl*)](./XC20.md)
 
-### VAC Industries XC20 Stealth Drone (*Owl*)
-
-| _Drone, uncommon_ | 
-|:-------------|
-| _This 2.5kg drone has a shell that supports optical camoflauge and quiet operation. It can be configured in either copter or AG modes, and provides audio, video, and spatial sensors. It has a small railgun attachment that can fire darts. It also has a diagnostic screen and a small speaker system._ | 
-| **Armor Class** 14 |
-| **Hit Points** 2 (1d4) |
-| **Speed** 0 ft., fly 30 ft.|
-| **Skills** Stealth +6 |
-| **Standard Price:** 2 Megabucks |
-<table class="abilities">
-  <thead><tr><th>STR</th><th>DEX</th><th>CON</th><th>WIS</th><th>INT</th> <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>4 (-3)</td>
-      <td>18 (+4)</td>
-      <td>10 (+5)</td>
-      <td>1 (-5)</td>
-      <td>1 (-5)</td>
-      <td>10 (+0)</td>
-    </tr>
-  </tbody>
-</table>
-
-|**Actions** |
-|--|
-| **Railgun.** Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 6 (1d4+4) piercing damage.|
-| **Invisibility.** The drone turns invisible until it attacks or until its concentration ends. Any equipment the drone carries is invisible with it. |
-
-### GNU OpenSOAR
-| _Drone, common_ | 
-|:-------------|
-| _This 2.5kg self-printed and assembled drone can be set up for copter or AG modes, and provides audio, video, and spatial sensors.  It has a diagnostic screen and a small speaker system._ | 
-| **Armor Class** 13 |
-| **Hit Points** 3 (1d4) |
-| **Speed** 0 ft., fly 30 ft.|
-| **Standard Price:** 500 Kilobucks |
-<table class="abilities">
-  <thead><tr><th>STR</th><th>DEX</th><th>CON</th><th>WIS</th><th>INT</th> <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2 (-4)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>1 (-5)</td>
-      <td>1 (-5)</td>
-      <td>1 (-5)</td>
-    </tr>
-  </tbody>
-</table>
+## GNU OpenSOAR Platform
+* [GNU OpenSOAR 16.04 LTS](./OpenSOAR.md)
