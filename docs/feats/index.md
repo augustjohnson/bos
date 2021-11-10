@@ -48,15 +48,9 @@ In addition, custom feats may be made, but need to be a re-skinning of an existi
 
 **Magic Initiate**, with re-skinned cantrip and 1st level spell.
 
-### Zap Kit (Magic Initiate - Wizard)
-* Electrified Gloves (Shocking Grasp)
-* Arc Lightning - (Witch Bolt)
+* [ZapKit](./ZapKit)
 
 **Eldritch Adept** with a set of re-skinned invocations.
 
-### Technomask (Eldritch Adept)
- * Mask of Many Faces
- * Enhanced Optics - (Devil's Sight)
-(You can switch to Misty Visions as some sort of holographic projection.)
+*[Technomask](./Technomask.md)
 
-Example 3, Svirfneblin Magic, with a few adjustments to the spells being cast.
