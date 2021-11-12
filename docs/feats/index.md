@@ -52,5 +52,5 @@ In addition, custom feats may be made, but need to be a re-skinning of an existi
 
 **Eldritch Adept** with a set of re-skinned invocations.
 
-*[Technomask](./Technomask.md)
+* [Technomask](./Technomask.md)
 
