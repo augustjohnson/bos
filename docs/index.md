@@ -34,7 +34,6 @@ For more details on the universe, check out these pages:
 * [History](./history)
 * [People](./people)
 * [Places](./places)
-* [Minds](./minds)
 * [Technologies](./technologies)
 
 Here are some detailed subsections for more in-depth limitations and rule adjustments from a standard DND 5e fantasy campaign.
