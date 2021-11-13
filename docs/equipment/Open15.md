@@ -1,11 +1,11 @@
-### GNU OpenSOAR 16.04 LTS
+### GNU Open15 16.04 LTS (*Roach*)
 
-| _Small Drone, common_ | 
+| _Tiny Drone, common_ | 
 |:-------------|
-| _This 2.5kg self-printed and assembled drone can be set up for copter or AG modes, and provides audio, video, and spatial sensors.  It has a diagnostic screen and a small speaker system._ | 
+| _This 1kg self-printed and assembled drone is a legged crawler, and can fit into small spaces._ | 
 | **Armor Class** 13 |
-| **Hit Points** 3 (1d4) |
-| **Speed** 0 ft., fly 30 ft.|
+| **Hit Points** 10 (4d4) |
+| **Speed** 20 ft., climb 20 ft.|
 | **Standard Price:** 500 Kilobucks |
 | **Damage Immunities:** Fire, Cold, Poison, Psychic, Necrotic |
 | **Condition Immunities:** Frightened, Stunned |
@@ -28,4 +28,4 @@
 
 | **Actions** |
 |---|
-| ***Analyze Weakness.***  On your next turn, you or any drones you control gain advantage on your first attack roll against the target, provided that this spell hasn't ended. |
+| ***Skitter.***  You can avoid attacks extremely well because of your small size and agility, causing any creature to have disadvantage on attack rolls against you. This ability is suppressed if you are incapacitated, restrained, or otherwise unable to move. |
