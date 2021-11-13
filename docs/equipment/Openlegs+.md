@@ -30,3 +30,5 @@
 | **Actions** |
 |---|
 | ***Slam.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) bludgeoning damage. |
+
+![OpenLegs](./../images/OpenLegs.jpg)

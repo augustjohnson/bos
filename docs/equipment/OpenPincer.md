@@ -29,3 +29,5 @@
 | **Actions** |
 |---|
 | ***Arm.***  The Drone has an arm, a basket, and a carrying capacity of 100kg.  It is able to be armed, and interact with objects |
+
+![OpenPincer](../images/OpenPincer.jpg)

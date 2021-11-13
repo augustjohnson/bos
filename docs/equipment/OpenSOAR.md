@@ -29,3 +29,5 @@
 | **Actions** |
 |---|
 | ***Analyze Weakness.***  On your next turn, you or any drones you control gain advantage on your first attack roll against the target, provided that this spell hasn't ended. |
+
+![OpenSOAR](../images/OpenSOAR.jpg)
