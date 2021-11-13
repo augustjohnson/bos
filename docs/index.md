@@ -13,7 +13,7 @@ Here are a few of the foundational changes in the Universe of BS.
 2. Interplanetary travel is common, and enjoyed by a large group.  Think of it like intercontinental flying is in the present day.
 3. An organization called the **Bureau of Space** has oversight into activities traveling between these systems.
 4. There are no aliens or intelligent life of any sort that's non-terrestrial in origin.
-5. There are entities generally called [Minds](./minds).  These are machines originally created by humans with at least human-level intelligence. There has been no killer AI apocalypse, and humans do not serve at the altar of AGI.
+5. There are entities generally called minds.  These are machines originally created by humans with at least human-level intelligence. There has been no killer AI apocalypse, and humans do not serve at the altar of AGI.
 6. There is no magic.
 7. There is no faster-than-light travel.  Humans are generally limited to our solar system, and relativity has limited any sort of human influence to only barely touch the nearest stars.
 

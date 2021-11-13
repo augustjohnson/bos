@@ -18,14 +18,14 @@ Drones can be extended in many different ways, but commonly have sensors for vis
 Drones with more potential capabilities (onboard lasers, large mass) are regulated, and more rare except in work sites.
 
 Some examples of drones are:
-* [VAC Observation Drone](../equipment/drones/)
-* [VAC Stealth Drone](../equipment/drones/)
-* [GNU OpenSOAR](../equipment/drones.md)
+* [VAC Observation Drone](../equipment/PP22.md)
+* [VAC Stealth Drone](../equipment/XC20.md)
+* [GNU OpenSOAR](../equipment/OpenSOAR.md)
 
 ## Droids
 A droid is a machine that can generally move like a human, with two legs, and (usually) two arms.  Quadrapedal droids are fairly common too.  Droid is a class of drone officially, but certain designs bear many benefits over flying type drones, such as significantly higher energy storage capabilities, and the ability to use human tools.
 
 Some examples of droids are:
-* [VAC Bipedal Droid](../equipment/droids.md)
-* [VAC Quadrapedal Droid](../equipment/droids.md)
-* [GNU OpenLEGS](../equipment/droids.md) (and it's variants)
+* [VAC Bipedal Droid](../equipment/A2.md)
+* [VAC Quadrapedal Droid](../equipment/D4.md)
+* [GNU OpenLEGS](../equipment/Openlegs.md) (and it's variants)
