@@ -1,4 +1,5 @@
 # Drones
+{% include breadcrumbs.html omit_home=true omit_date=true %}
 
 ## VAC Industries
 * [VAC Industries PP22 Observation Drone (*Mosquito*)](./PP22.md)
