@@ -1,5 +1,4 @@
-{% include breadcrumbs.html omit_home=true omit_date=true %}
-
+{% include breadcrumbs.html %}
 ### GNU Openlegs Bipedal Droid
 
 | _Drone, common_ | 
