@@ -1,4 +1,7 @@
-### GNU OpenSOAR 16.04 LTS
+---
+title: GNU OpenSOAR Drone LTS 16.04
+---
+{% include breadcrumbs.html %}
 
 | _Small Drone, common_ | 
 |:-------------|
@@ -30,4 +33,4 @@
 |---|
 | ***Analyze Weakness.***  On your next turn, you or any drones you control gain advantage on your first attack roll against the target, provided that this spell hasn't ended. |
 
-![OpenSOAR](../images/OpenSOAR.jpg)
+![OpenSOAR](/{{site.baseurl}}/images/OpenSOAR.jpg)

@@ -1,4 +1,7 @@
-### GNU OpenPincer 16.04 LTS
+---
+title: GNU OpenPincer Drone 16.04 LTS
+---
+{% include breadcrumbs.html %}
 
 | _Small Drone, common_ | 
 |:-------------|
@@ -30,4 +33,4 @@
 |---|
 | ***Arm.***  The Drone has an arm, a basket, and a carrying capacity of 100kg.  It is able to be armed, and interact with objects |
 
-![OpenPincer](../images/OpenPincer.jpg)
+![OpenPincer](/{{site.baseurl}}/images/OpenPincer.jpg)
