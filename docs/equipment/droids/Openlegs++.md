@@ -5,7 +5,6 @@ title: GNU Openlegs++ Bipedal Droid
 ### GNU Openlegs++ Bipedal Droid
 {% include breadcrumbs.html %}
 
-
 | _Drone, common_ | 
 |:-------------|
 | _This self-printed and assembled droid requires some industrial-sourced parts, and has modifiable blueprints.  It follows the same structure of the Openwalker, but is printed with much higher quality components._ | 
