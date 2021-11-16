@@ -1,4 +1,8 @@
-### Precision Engineering Wx3
+---
+title: Precision Engineering Wx3
+---
+
+{% include breadcrumbs.html %}
 
 | _Martial Ranged Weapon, 10lbs_ | 
 |:-------------|

@@ -25,10 +25,10 @@ All of the original DND weapons approximately exist, and a few are still in prac
 The following weapons are also available, and offer a modern approach to combat.
 
 *Simple Melee Weapons*
-* [Taser TZ4 Stun Baton](./TZ4.md)
+* [Taser TZ4 Stun Baton](./TZ4)
 
 *Simple Ranged Weapons*
-* [Precision Engineering Wx2 Beam Pistol](./PEWx2.md)
+* [Precision Engineering Wx2 Beam Pistol](./PEWx2)
 * [Projectile Pistol]()
 * [Grapple Launcher]()
 
@@ -38,7 +38,7 @@ The following weapons are also available, and offer a modern approach to combat.
 * [Cutting Torch]()
  
 *Martial Ranged Weapons*
-* [Precision Engineering Wx3 Beam Rifle](./PEWx3.md)
+* [Precision Engineering Wx3 Beam Rifle](./PEWx3)
 * [Projectile Rifle]()
 * [Cannister Launcher]()
 * [Foam Shooter]()
