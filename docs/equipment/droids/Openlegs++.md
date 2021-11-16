@@ -36,4 +36,4 @@ title: GNU Openlegs++ Bipedal Droid
 |---|
 | ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) bludgeoning damage. |
 
-![OpenLegs]({{site.baseurl}}/images/OpenLegs.jpg)
+![OpenLegs](/{{site.baseurl}}/images/OpenLegs.jpg)
