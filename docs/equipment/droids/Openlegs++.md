@@ -1,5 +1,10 @@
+---
+title: GNU Openlegs++ Bipedal Droid
+---
 
 ### GNU Openlegs++ Bipedal Droid
+{% include breadcrumbs.html %}
+
 
 | _Drone, common_ | 
 |:-------------|
