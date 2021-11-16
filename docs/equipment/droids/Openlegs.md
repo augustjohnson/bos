@@ -2,10 +2,9 @@
 title: GNU Openlegs Bipedal Droid
 ---
 
-### GNU Openlegs Bipedal Droid
 {% include breadcrumbs.html %}
 
-| _Drone, common_ | 
+| _Medium drone, common_ | 
 |:-------------|
 | _This self-printed and assembled droid only requires a few cheaply manufactured parts, and has modifiable blueprints.  While it does not come with a warranty, and can be found to break down often, it certainly serves the purpose of a droid quite well._ | 
 | **Armor Class**  10 |
