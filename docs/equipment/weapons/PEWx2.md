@@ -11,3 +11,5 @@ title: Precision Engineering Wx2
 | **Standard Price:** 500 Kilobucks |
 | **Range:** (40/120) |
 | **Properties:** Ammunition, reload (50) |
+
+![PEWx2](/{{site.baseurl}}/images/PEWx2.jpg)
