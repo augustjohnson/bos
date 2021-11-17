@@ -13,7 +13,7 @@ It's now possible store a human body for many years, and then return it to life.
 A great leap forward was made in ship propulsion. There are now fusion-powered rockets on many larger ships that are sized to generally maintain a constant accelleration of up to 1G while traveling.  This means the time to and from most destinations is measured in days.  The Bureau of Space, a previously weak organization, was able to take total control of the manufacture and operation of these engines.
 
 ## Year 2115: Minds
-A set of entities called [minds](../minds) were created and quickly became actors across the system. These are machines with at least human-level intelligence. Their ability to interact with the world is really only limited by their resources. They are all built for a purpose by a human organization.
+A set of entities called minds were created and quickly became actors across the system. These are machines with at least human-level intelligence. Their ability to interact with the world is really only limited by their resources. They are all built for a purpose by a human organization.
 
 ## Year 2130: Mars Space Elevator
 The space elevator opening on Mars created a true system power, and showed many on Earth that Mars is a power worthy of respect, even if it is far away.  Mars has become the destination for the wealthy elite, and many enterprising individuals.
