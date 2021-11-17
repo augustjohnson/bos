@@ -1,3 +1,4 @@
+# Basic Rule Changes
 
 ### Skills
 
@@ -30,8 +31,10 @@ In addition to all conditions in DND 5e, there are two more that only apply in 0
 * The creature can use an action to try and **stabilize**.
 * A creature taking the **stabilize** action has to succeed a DC12 Dexterity saving throw, and then they are free-floating instead of spiraling.
 
-
 ### Planes
 If you are adapting a spell or ability, in most cases, you can simply replace "plane of existence" with "planet".
 
 For example, if you wanted to re-skin the spell Mind Spike, you would always know the location of the target for 1 hour as long as they remained on the same planet.
+
+### Languages
+All humans can communicate verbally using Common.  There are also a set of hand signals, similar to American Sign Language, but modified for conditions in the vacuum of space called Void Signals.  It is purely somatic.
