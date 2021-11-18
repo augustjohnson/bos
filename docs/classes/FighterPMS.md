@@ -9,3 +9,5 @@ Starting at 3rd level, you have a custom jetpack, which gives you a fly speed of
 Your mastery as a maneuverer becomes apparent. If you start Spiraling, you can use half your flying movement to recover. While your Personal Maneuvering System has fuel, you are immune to the **free-floating** condition.
 
 __All other class features remain the same.__
+
+![Jetpack](/images/Jetpack.jpg)

@@ -11,3 +11,5 @@ At 3rd level, your implants can help you survive death, and your body decomposes
 Starting at 6th level, the drugs that fuel your rage can protect you. If you fail a saving throw while you’re raging, you can reroll it, and you must use the new roll. You can use this ability only once per rage.
 
 __All other class features remain the same.__
+
+![Cyborg](/images/cyborg.jpg)
