@@ -5,4 +5,4 @@ You wear a pair of gloves that has some special abilities.  You may cast the fol
 You may cast the following spell.  Before you cast it again, you must complete a long rest.
 * Arc Lightning - (Witch Bolt)
 
-![ZapKit]({{site.baseurl}}/images/ZapKit.jpg)
+![ZapKit](/{{site.baseurl}}/images/ZapKit.jpg)
