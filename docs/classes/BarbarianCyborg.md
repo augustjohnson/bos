@@ -12,4 +12,4 @@ Starting at 6th level, the drugs that fuel your rage can protect you. If you fai
 
 __All other class features remain the same.__
 
-![Cyborg](/images/cyborg.jpg)
+![Cyborg](/{{site.baseurl}}/images/cyborg.jpg)

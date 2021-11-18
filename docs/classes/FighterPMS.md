@@ -10,4 +10,4 @@ Your mastery as a maneuverer becomes apparent. If you start Spiraling, you can u
 
 __All other class features remain the same.__
 
-![Jetpack](/images/Jetpack.jpg)
+![Jetpack](/{{site.baseurl}}/images/Jetpack.jpg)

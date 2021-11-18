@@ -14,4 +14,4 @@ You've been in cryogenic stasis for decades or even over a century. You may have
 
 **Feature: Good Ol' Days** There are a few reawakened throughout the system, and they like to reminisce about old times.  You and your companions can expect to recieve assistance and accomodations from other reawakened individuals, as long as it is not against their interests.
 
-![Cryo-pod](/images/cryo-pod.png)
+![Cryo-pod](/{{site.baseurl}}/images/cryo-pod.png)

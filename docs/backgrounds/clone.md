@@ -14,4 +14,4 @@ You were born as a clone, likely of someone quite wealthy. You may have been cre
 
 **Feature: Impersonation**  In many ways, you ARE the person you were cloned to be.  You can pass for this person at a glance, or even biologically.  This offers certain benefits, often granting entry to exclusive places otherwise unavailable to poor commoners.
 
-![Clones](/images/clones.jpg)
+![Clones](/{{site.baseurl}}/images/clones.jpg)
